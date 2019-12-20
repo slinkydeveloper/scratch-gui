@@ -317,5 +317,14 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: 'Vertx Event Bus',
+        extensionId: 'vertx',
+        collaborator: 'Francesco Guardiani',
+        iconURL: penIconURL,
+        insetIconURL: penInsetIconURL,
+        description: 'Interact with the Vert.x Event bus',
+        featured: true
     }
 ];
